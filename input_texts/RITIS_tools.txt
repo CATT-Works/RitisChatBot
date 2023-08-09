@@ -1,0 +1,197 @@
+CHART Reporting
+CHART Reporting is a custom analytics package built on top of data collected from the Maryland CHART System’s ATMS software, which includes data about traffic events, DMS, CCTV and other devices, and operator logs. CHART Reporting provides information useful for real-time operations and for analysis of performance over long time periods. Reports can be scheduled within CHART Reporting, which allows for automatic emailing of key performance metrics to interested parties on regular intervals. CHART has found this particularly useful during severe weather events, when keeping the public and key decision makers up-to-date is vital, and automating this task allows the CHART operators to focus their attention on addressing the problems at hand instead of compiling and mailing out reports.
+
+
+
+COVID-19 Impact Analysis Platform
+The COVID-19 Impact Analysis Platform allows decision makers, researchers, and the public to analyze how social distancing and stay-at-home orders are affecting travel behavior and spread of the coronavirus. The platform helps visualize variations and trends in national, state, and county-level metrics for mobility and social distancing, COVID-19 and health, economic impact, and vulnerable populations. The combination of these metrics and their changes over time allows users to assess impacts and inform further decisions.
+
+
+Detector Tools - Detector Profile
+The Detector Profile displays readings and health data for a single detector for up to a three month period. The time slider allows you to start at the macro, multi-month, leveland zoom into the micro, per-minute, level, allowing you to identify patterns and deviations from those patterns in speed and volume data.
+The Detector Profile works with both single- and multi-lane detectors.
+
+
+Detector Tools - Health Summary
+Traffic detectors, being physical devices, are subject to damage, network outages, and miscalibration. The Detector Tools Health Summary displays the current and historic health of the entire detector system and allows you to drill into each region, road, and even the individual detector level to see exactly which areas need the most attention to improve the reliability of the detectors therein.
+
+
+Detector Tools - LaunchPad
+The Detector Tools LaunchPad displays a list and map of every traffic detector from which RITIS consumes data. It allows you to select a subset of those detectors to openin either the Detector Profile, Road Profile, or Health Summary, and allows you to download raw data from the sensors.
+
+
+Detector Tools - Road Profile
+The Detector Tools Road Profile allows you to analyze congestion metrics from detectors installed along a specific corridor, including travel time, travel time index, andbuffer time index. This can help you understand the reliability of the performance of the roads on which detectors are installed.
+
+
+PDA - Bottleneck Ranking
+Bottleneck Ranking helps you identify problem locations and allows you to prioritize proposed projects. Ranking is performed using a dozen different factors including queue length, number of occurrences, impact, and accumulated delay.
+For each bottleneck location, Bottleneck Ranking allows you to dive deep into the data to see exactly when and where congestion is occurring and to link in event data to help you determine why.
+
+
+PDA - Causes of Congestion Graphs
+Causes of Congestion Graphs automates the process of identifying and quantifying the causes of congestion in six primary categories: (1) recurrent bottlenecks, (2) weather, (3) work zones, (4) incidents, (5) signal timing, and (6) holidays.
+This tool is recommended for analysts seeking to estimate the contribution of each congestion source to delay experienced on user-defined road segments and time ranges.
+
+
+PDA - Congestion Scan
+With Congestion Scan you can analyze conditions on one or more stretches of road. With the multi-road feature, you can stitch together roadways for a continuous route to better analyze commuter, recreational, or freight corridors. A traffic events layer allows you to visualize any relationships between congestion and incidents, work zones or other adverse situations.
+
+
+PDA - Corridor Time Comparison
+Corridor Time Comparison gives you the ability to visualize the variations in key performance measures along a roadway corridor.
+Corridor Time Comparison displays bi-directional line charts associated with roadway segments along a corridor. You can select up to two separate date ranges and up to seven different time ranges within the date ranges selected. There is also a choice of five different metrics that can be displayed, giving you great flexibility and depth in your corridor analyses.
+
+
+PDA - Dashboard
+Using the Dashboard you can create widgets that allow you to keep tabs on real-time conditions or monitor your progress toward FHWA’s MAP-21 target setting requirements.
+Speed and Travel Time widgets will keep you up-to-date in real-time as conditions change on roadways you’re monitoring. Historic conditions are displayed alongside the real-time data to help you recognize if deteriorating conditions are abnormal for the current time of day and day of week.
+Ranked bottleneck widgets display all of the active bottlenecks across a region, their lengths, and their duration so far.
+The MAP-21 widgets allow you to input the thresholds your state or MPO will be using for MAP-21 reporting and will display your progress toward meeting those targets over the course of the year and on a per-segment basis.
+
+
+PDA - Energy Use and Emissions Charts
+Energy Use and Emissions Charts allows you to create charts that break down energy use and emissions by road class and engine type. Within the resulting visualizations, you can switch between energy use from two models as well as CO2, NOX, PM2.5, PM2.5NOX precursor, and VOC emissions that can be broken down by road class, hour of day, day of week, and month. You can also toggle between bar and pie chart displays. The scatterplot option allows you to analyze the relationships between any of the energy and emissions metrics as well as VMT. Each chart is supplemented by a table that provides a summary of the VMT normalized results. This tool is recommended for analysts interested in understanding the relationship between sustainability metrics and evaluating the portion of the targeted sustainability metric generated within a specific hour of day, day of week, month, or engine class.
+
+
+PDA - Energy Use and Emissions Matrix
+Energy Use and Emissions Matrix creates a color-coded matrix of aggregated energy use and emissions estimates for all roads for each hour within a customized analysis period. In the resulting matrix, you can switch between energy use from two models as well as CO2, NOX, PM2.5, PM2.5NOX precursor, and VOC emissions. Totals across the hour, day, and each date within the query range are provided as well as the overall total. This tool is recommended for analysts interested in estimating aggregate hourly sustainability metrics to discover patterns or abnormalities.
+
+
+PDA - Energy Use and Emissions Trend Map
+Energy Use and Emissions Trend Map creates hourly animations of energy use and emissions on selected roads and date ranges. The output map provides estimates of energy use and emissions for each selected segment as well as the aggregate. Results are normalized by VMT to assist in identifying segments with abnormal sustainability performance. Similar to the original Trend Map, you can select up to seven time ranges to create synchronized map animations to discover differences in sustainability metrics from the driving mode. As with the other energy use and emissions tools, you can switch between energy use from two models, as well as CO2, NOX, PM2.5, PM2.5NOX precursor, and VOC emissions. This tool is recommended for analysts seeking to evaluate segment-level and aggregate hourly sustainability metrics on a time-stepped map-based visualization.
+
+
+PDA - MAP-21
+The MAP-21 tool set includes capabilities to compute, visualize, and download all of the PM3 Metrics and sub-metric data as required to be reported by FHWA.Agency speed-limit data can be integrated, and trend-line capabilities are already helping agencies more easily address target-setting requirements. Soon to becompleted: an “easy button” will allow agencies to immediately create all of the necessary files and deliverables to FHWA for compliance.
+Note: Through a competitive procurement process, AASHTO awarded a contract to a team led by the CATT Laboratory (with INRIX and the Texas Transportation Institute) to make this set of tools available to agencies through AASHTO’s Transportation Performance Management pooled fund study.
+
+
+PDA - Massive Data Downloader
+Use the Massive Data Downloader to export large amounts of probe data for offline analyses. You can select any combination of road segments (an entire region, set of corridors, zip codes, etc.), and any date range and time of day. In addition to raw or aggregated data, you can include quality indicators and other measurements
+
+
+PDA - NPMRDS Coverage Map
+The NPMRDS is a probe data set commissioned by FHWA and produced by the CATT Lab for use for free by DOTs and MPOs for use in their MAP-21 performance reports. The NPMRDS is powered strictly by probe readings, so if no vehicles are on a segment during a particular 5-minute reporting period, the NPMRDS has an empty record for that period. The NPMRDS Coverage Map lets you explore the prevalence of these empty readings with filters for time of day and type of vehicle.
+
+
+
+PDA - Performance Charts
+Use Performance Charts to prepare reports using a variety of visualization techniques – bar, line, scatterplot and candlestick – representing aggregate conditions across a road for key performance metrics. 5th/95th and 25th/75th percentiles ranges help underscore the significance of deviations from the norm.
+
+
+PDA - Performance Summaries
+With Performance Summaries, you can produce reports on key performance measures over arbitrary geospatial and temporal parameters and see results by each day of the week.
+
+
+PDA - Probe Data API
+The Probe Data API allows developers to run the same queries that power the Probe Data Analytics Suite and then consume the results. The API exposes endpoints for road search, data exports, performance metric computation, and user delay cost analysis.
+
+
+PDA - Region Explorer
+Region Explorer allows you to explore the relationships between bottlenecks and traffic events and their impacts on traffic conditions in real-time or points in the past. The Region Explorer’s map provides a geospatial context for the data it presents, and the table lists all of the events and bottlenecks within the bounds of the map, allowing you to arrange the map around your area of interest and sort the list to determine which traffic events and bottlenecks are causing the most impact for the traveling public.
+
+
+PDA - Speed Threshold Breakdown
+Speed Threshold Breakdown allows you to see the amount of time in which speeds were above or below certain threshold values for an arbitrary date range or geography. This is useful for making sure your roads are meeting your performance targets.
+
+
+PDA - Temporal Comparison Maps
+Temporal Comparison Maps gives users a unique set of functions to visualize and analyze geo-temporal data, in the form of maps, which render key performance indicators along a roadway corridor of interest. While PDA's Trend Map gives users the functional capability to visualize geo-temporal variations in your performance indicators, this powerful tool will also calculate the change, or delta, of your performance indicators across a customizable set of dates and time ranges. Temporal Comparison Maps gives operators and planners data-driven insights to better understand the impacts of specific improvements to the network or to observe trends over time that work zones or other natural events may have on a region.
+
+
+PDA - Travel Time Comparison
+PennDOT commissioned the Purdue University Joint Transportation Research Program (JTRP) to design advanced performance metrics for signalized arterial highways that exploit next-gen probe vehicle travel time data (these datasets are produced at higher levels of spatial granularity). To deploy the research findings statewide, PennDOT then commissioned the work to add these metrics to the RITIS platform.
+This tool allows the user to perform a comparison of travel times on a selected corridor for specified “before” and “after” date ranges that can be filtered by day of week and time of day. The tool produces cumulative frequency diagrams (CFDs) of the travel times that illustrate the difference between the before and after conditions. This tool is instrumental for assessing the effects of maintenance, operational changes, capital programs and adaptive deployments.
+
+
+PDA - Travel Time Delta Ranking
+PennDOT commissioned the Purdue University Joint Transportation Research Program (JTRP) to design advanced performance metrics for signalized arterial highways that exploit next-gen probe vehicle travel time data (these datasets are produced at higher levels of spatial granularity). To deploy the research findings statewide, PennDOT then commissioned the work to add these metrics to the RITIS platform.
+This tool enables the user to view performance of multiple corridors for a specified date range, and to rank the corridors according to their travel time characteristics, including both the median travel time (which measures the severity of delays) and the interquartile range (IQR) (which measures the travel time reliability). The tool produces sorted bar charts based on either performance measure, or it produces a scatter-plot to show the relationship between the two metrics.
+
+
+PDA - Trend Map
+Trend Map allows you to create animated maps of probe data performance metrics over the course of time. This can be useful for seeing exactly when conditions deteriorate during morning and evening rush hour.
+Up to seven maps of different time periods can be plotted side-by-side, which facilitates before-and-after comparisons for workzones, signal timing changes,or other TSMO projects expected to yield a change in roadway performance.
+Trend Maps can be embedded in external websites, allowing you to easily share the results of your findings with non-RITIS users.
+
+
+PDA - User Delay Cost Analysis
+By combining probe speed data, volume data, and economic function to set a value for an average person’s time, we can determine how much money is lost by delay on the road way. This provides sound footing as you attempt to justify the cost of a proposed construction project or TSMO initiative.
+Results are displayed in a table by hour of day and date, which can help you pinpoint when incidents and recurring congestion take their toll on the traveling public.
+
+
+PDA - Vehicle Ownership Charts
+Vehicle Ownership Charts supports annual trend analysis of vehicle ownership by inferred engine type (gas, diesel, hybrid, and plug-in electric) in regions of interest. Due to the format of the raw data, vehicle ownership is aggregated at the zip code level. Results are presented as a multi-series bar charts. This tool is recommended for analysts interested in discovering the annual trends in vehicle ownership by estimated engine type.
+
+
+RITIS - Event Query Tool
+All traffic event data collected by RITIS is archived indefinitely, and the Event Query Tool allows you to search that archive. In addition to allowing you to find individual events that match your search criteria, the Event Query Tool also provides charts displaying trends and maps displaying high-frequency event locations.
+
+
+RITIS - Incident Alerts
+Alerts can be configured to notify you (SMS or email) whenever an event that matches certain parameters occurs within an area you’re interested in. This can be particularlyhandy for monitoring high-demand routes or even your own personal commute. You can choose during which times of day you want to be notified and how severe an incidentneeds to be in order to trigger an alert.
+
+
+RITIS - Incident List
+The RITIS Incident List displays a sortable and filterable list of every active event tracked by RITIS, and it is kept up-to-date in real-time. Set your filters appropriately, and the RITIS Incident List becomes your one-stop dashboard for prioritizing event response for the critical active events your operations team is dealing with at any given time.
+
+
+RITIS - Incident Overview
+The Incident Overview combines the features of the Incident List and the RITIS Map, allowing you to simultaneously sort and filter while maintaining the context of the plethora of datamade available through the robust layering system of the map.
+
+
+RITIS - Incident Timeline
+The Incident Timeline provides for the visualization of detailed real-time and historic traffic management center incident data. The detailed history of a traffic event, whichoften include hundreds of data points, can be viewed in a graphical, one-screen overview. Line color, thickness, and length work together to convey data that wouldnormally take multiple pages and large tables to understand. The Incident Timeline reduces the chance of missing critical information, enables the user to correlate events,and reduces the time needed to comprehend the many simultaneous events that occur or occurred during the management of one or more incidents.
+
+
+RITIS - Map
+The RITIS Map presents more than a dozen real-time geospatial data feeds, providing more information about the transportation system than data available in most ATMS systems by a large margin. Event data from each agency, DMS locations and their current messages, traffic detectors with real-time charting for their speeds and volumes, probe speed data, and weather radar data are just a few of the real-time data sets made available through the RITIS Map.
+
+
+RITIS - RITIS Filter API
+Developers can use the RITIS Filter API to access the event and device data collected by RITIS. Flexible filtering allows for very specific queries to be run, which can be used by developers to create dashboards, notification systems, or a wide variety of other applications.
+
+
+RITIS - Speed Alerts
+With Speed Alerting you can set a threshold speed limit or percentage of the free flow speed and receive an email or text message when that threshold is reached. You can delay notifications until a threshold is breached for a certain period of time to prevent normal fluctuations in speeds from generating false alarms.
+
+
+RITIS - Traffic Cameras
+Video streams from hundreds of highway CCTV and patrol units’ dashboard cameras are pumped through RITIS every day. Our Traffic Cameras application allows users to watch individual streams or build a custom “video wall” to display dozens of feeds simultaneously. A map adjacent to the video wall provides the geospatial context for the feeds.
+
+
+RITIS - TrafficView
+TrafficView gives the general public access to the core features of the RITIS map, Traffic Cameras, and Incident Alerts while stripping out a lot of the tools that (while useful for agency users) don’t provide much utility to the traveling public. Real-time speed data, incident data, and traffic cameras provide travelers with the information they need to make decision about how best to utilize the transportation options available to them.
+
+
+RITIS - Work Zone Performance Monitoring Application (WZPMA)
+Manage work zone impacts in your state through a dashboard style interface. A profile page for each work zone allows you to dynamically assess current conditions, past conditions, and user cost impacts. The alerting systems allows you to receive email or text message notifications whenever certain speed or bottleneck conditions are met within a work zone.
+
+
+Signal Analytics - Intersection Analysis
+Intersection Analysis uses high-resolution probe vehicle-based trips data to assist you in analyzing and ranking the performance of signalized intersections across a region. This tool allows you to analyze key signal performance metrics such as travel times, approach speeds, control delay, and percent arrival on green without deploying roadside equipment at an intersection.
+
+
+Signal Analytics - Intersection Matrix
+Intersection Matrix uses high-resolution probe vehicle-based trips data to assist you in performing a detailed analysis of individual signalized intersections in your region, letting you see how performance changes according to time of the day and day of the week. This tool allows you to analyze key signal performance metrics such as travel times, approach speeds, control delay, and percent arrival on green without deploying roadside equipment at an intersection.
+
+
+Trip Analytics - OD Matrix
+Tools in Trip Analytics extract the origin-destination and routing patterns contained within very large sets of time-stamped "bread-crumb trails" generated by vehicles within the traffic stream.
+The OD Matrix tool generates zone-to-zone trip tables based on trip start- and end-points. Zones can be county, sub-county, or TAZ. Users can filter by date range, time-of-day, day-of-week, and by vehicle class — i.e. light-weight vehicles such as passenger cars, vans, and pick-up trucks; medium vehicles such as traditional single-unit trucks; or heavy vehicles such as tractor trailers. Within the tool, users can create traditional, symmetric OD tables (where the origins and destinations are identical) or custom OD matrices (where the origins and destinations can be different). These outputs are suitable for calibration of macro-level travel demand models (typically for a metro-area-wide region), as well as for many meso- and micro-simulation modeling applications.
+
+
+Trip Analytics - Segment Analysis
+Tools in Trip Analytics extract the origin-destination and routing patterns contained within very large sets of time-stamped “bread-crumb trails” generated by vehicles within the traffic stream.
+The Segment Analysis tool maps origins and destinations for a selected road segment. You can filter for vehicle classes and time ranges. The resulting map will show the geographic distribution of vehicles that traveled the selected road segment. You can view trip totals for counties, sub-counties, or TAZs. For further analysis, this tool links to the OD Matrix so you can view the data in a tabular format.
+
+
+Trip Analytics - Route Analysis
+Tools in Trip Analytics extract the origin-destination and routing patterns contained within very large sets of time-stamped “bread-crumb trails” generated by vehicles within the traffic stream.
+The Route Analysis tool examines travel patterns between zones of Origin and Destination by compiling database trips that satisfy the user’s filters. The Route Table lists how many trips followed each unique route, and calculates travel time and reliability metrics. The Route Map displays segment-by-segment pathways; the user can draw screen lines or cordon lines perpendicular to traffic flows to produce sample counts and split percentages for each crossing.
+
+
+Virtual Weigh Station
+Virtual Weigh Station provides agencies that use weigh-in-motion detectors with a window into their data. Enforcement personnel can sit downstream of the weigh station with the real-time Virtual Weigh Station monitor pulled up on their toughbook or mobile device and receive alerts, including photos and weight data, of vehicles in violation of weight restriction. This allows for quick decision-making as to whether or not to flag down offending vehicles.
+The Virtual Weigh Station’s archival tools allow managers to search for trends and repeat offenders and make decisions about the best time to deploy their enforcement personnel.

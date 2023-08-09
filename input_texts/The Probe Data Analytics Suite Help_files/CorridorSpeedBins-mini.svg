@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38.2 37.9">
+  <defs>
+    <clipPath id="clippath">
+      <rect x="0" width="38.2" height="37.9" rx="4.6" ry="4.6" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <g style="clip-path: url(#clippath);">
+    <g>
+      <path id="white_rect" data-name="white rect" d="m4.8,0h28.8c2.5,0,4.6,2.1,4.6,4.6v28.8c0,2.5-2.1,4.6-4.6,4.6H4.8c-2.5,0-4.6-2.1-4.6-4.6V4.6c0-2.5,2-4.6,4.6-4.6Z" style="fill: #4faf54;"/>
+      <rect x="5.9" y="1.8" width="8" height="5" style="fill: #f91985; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="7.9" y="6.8" width="4" height="5" style="fill: #f43d3d; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="5.9" y="6.8" width="2" height="5" style="fill: #f98c41; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x=".9" y="6.8" width="5" height="5" style="fill: #ffaf45; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="-.6" y="6.8" width="1.5" height="5" style="fill: #4faf54; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="7.9" y="23.8" width="2" height="5" style="fill: #23b7af; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="3.9" y="23.8" width="4" height="5" style="fill: #1ba5a1; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="1.9" y="23.8" width="2" height="5" style="fill: #169393; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="28.9" y="15.8" width="4" height="5" style="fill: #f43d3d; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="32.9" y="15.8" width="2" height="5" style="fill: #ffaf45; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="34.9" y="15.8" width="6.5" height="5" style="fill: #4faf54; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="23.9" y="10.8" width="6" height="5" style="fill: #f98c41; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="29.9" y="10.8" width="6" height="5" style="fill: #ffaf45; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="35.9" y="10.8" width="6" height="5" style="fill: #4faf54; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="23.9" y="20.8" width="3" height="5" style="fill: #f43d3d; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="26.9" y="20.8" width="10" height="5" style="fill: #ffaf45; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="36.9" y="20.8" width="4.5" height="5" style="fill: #4faf54; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="23.9" y="5.8" width="2" height="5" style="fill: #f43d3d; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="25.9" y="5.8" width="7" height="5" style="fill: #f98c41; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="32.9" y="5.8" width="7" height="5" style="fill: #4faf54; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="23.9" y="25.8" width="2" height="5" style="fill: #f43d3d; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="25.9" y="25.8" width="7" height="5" style="fill: #ffaf45; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="32.9" y="25.8" width="8.5" height="5" style="fill: #4faf54; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="11.9" y="11.8" width="2" height="5" style="fill: #f43d3d; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="1.9" y="11.8" width="2" height="5" style="fill: #ffaf45; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="-.6" y="11.8" width="2.5" height="5" style="fill: #4faf54; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="3.9" y="11.8" width="8" height="5" style="fill: #f98c41; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="10.9" y="16.8" width="3" height="7" style="fill: #f98c41; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="4.9" y="16.8" width="6" height="7" style="fill: #ffaf45; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="10.9" y="28.8" width="3" height="10.5" style="fill: #ffaf45; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="-.6" y="28.8" width="12" height="10.5" style="fill: #4faf54; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="-.6" y="23.8" width="12" height="5" style="fill: #4faf54; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="-.6" y="16.8" width="5.5" height="7" style="fill: #4faf54; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="23.9" y="30.8" width="3" height="8.5" style="fill: #ffaf45; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="26.9" y="30.8" width="14.5" height="8.5" style="fill: #4faf54; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="23.9" y="-.7" width="5" height="6.5" style="fill: #f43d3d; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="28.9" y="-.7" width="2" height="6.5" style="fill: #f98c41; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="30.9" y="-.7" width="8.5" height="6.5" style="fill: #4faf54; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="3.9" y="1.8" width="4" height="5" style="fill: #f43d3d; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="2.9" y="1.8" width="1" height="5" style="fill: #f98c41; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="-.6" y="1.8" width="3.5" height="5" style="fill: #4faf54; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="22.9" y="15.8" width="6" height="5" style="fill: #f91985; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="11.9" y="6.8" width="2" height="5" style="fill: #f91985; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <rect x="9.9" y="23.8" width="4" height="5" style="fill: #f91985; stroke: #303030; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <g>
+        <rect x="13.2" width="11" height="38" style="fill: #333d47;"/>
+        <rect x="14.2" y="-8.4" width="1" height="54" style="fill: #ff0;"/>
+        <path d="m22.2-8.2v53.7c0,.1,1,.2,1,.3V-8.5c0,.1-1,.2-1,.3Z" style="fill: #ff0;"/>
+        <line x1="18.7" x2="18.7" y2="38.1" style="fill: none; stroke: #fff; stroke-dasharray: 0 0 5 5; stroke-miterlimit: 10;"/>
+      </g>
+    </g>
+  </g>
+</svg>

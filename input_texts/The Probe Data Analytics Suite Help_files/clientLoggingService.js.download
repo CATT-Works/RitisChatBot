@@ -1,0 +1,14 @@
+// https://github.com/lancedikson/bowser for Bowser api detail
+
+function clientLoggingService(username, tool) {
+  var browser = window.bowser.getParser(window.navigator.userAgent);
+  var browserDetails = browser.getBrowser();
+
+  $.post("/logPlatformVersion/", {
+    user: username,
+    browser: browserDetails.name,
+    browserVersion: browserDetails.version,
+    tool: tool ? tool : 'N/A',
+    url: window.location.href,
+  });
+};

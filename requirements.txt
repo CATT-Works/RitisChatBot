@@ -1,0 +1,13 @@
+openai
+langchain
+langchain[docarray]
+pypdf
+yt_dlp
+pydub
+bs4
+tiktoken
+chromadb
+panel
+jupyter_bokeh
+transformers
+gradio

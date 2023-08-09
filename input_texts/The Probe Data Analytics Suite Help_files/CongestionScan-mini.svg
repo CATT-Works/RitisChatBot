@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 38 38" enable-background="new 0 0 38 38" xml:space="preserve">
+<g id="XMLID_4102_">
+	<path id="white_rect_145_" fill="#0E7687" d="M38,33.4c0,2.5-2.1,4.6-4.6,4.6H4.6C2.1,38,0,35.9,0,33.4V4.6C0,2.1,2.1,0,4.6,0h28.8
+		C35.9,0,38,2.1,38,4.6V33.4z"/>
+	<g id="XMLID_4138_">
+		<polygon id="XMLID_4200_" fill="#169393" points="9,22 9,12 4,12 4,19 2,19 2,27 7,27 7,30 11,30 11,22 		"/>
+		<rect id="XMLID_4150_" x="6" y="10" fill="#23B7AF" width="2" height="3"/>
+		<rect id="XMLID_4149_" x="9" y="5" fill="#23B7AF" width="3" height="4"/>
+		<polygon id="XMLID_4147_" fill="#1BA5A1" points="9,28 9,22 10,22 10,18 8,18 8,21 4,21 4,29 5,29 5,34 11,34 11,28 		"/>
+		<polygon id="XMLID_4140_" fill="#2DD6C9" points="7,16 4,16 4,20.8 4,20.8 4,27 5,27 5,22 7,22 		"/>
+		<rect id="XMLID_4139_" x="7" y="27" fill="#2DD6C9" width="3" height="4"/>
+	</g>
+	<g id="XMLID_4133_">
+		<polygon id="XMLID_4137_" fill="#169393" points="34,18 34,8 29,8 29,4 27,4 27,15 25,15 25,23 29,23 29,33 34,33 34,22 30,22 
+			30,18 		"/>
+		<polygon id="XMLID_4136_" fill="#23B7AF" points="32,14 28,14 28,17 27,17 27,23 29,23 29,19 32,19 		"/>
+		<polygon id="XMLID_4135_" fill="#1BA5A1" points="33,21 30,21 30,24 25,24 25,36 31,36 31,27 33,27 		"/>
+		<polygon id="XMLID_4134_" fill="#2DD6C9" points="35,18 35,11 29,11 29,14 25,14 25,23 27,23 27,30 30,30 30,19.5 30,19.5 30,18 
+					"/>
+	</g>
+	<g id="XMLID_4119_">
+		<rect id="XMLID_4125_" x="13" fill="#333D47" width="11" height="38"/>
+		<g id="XMLID_4120_">
+			<g>
+				<g>
+					<defs>
+						<path id="SVGID_1_" d="M38,33.4c0,2.5-2.1,4.6-4.6,4.6H4.6C2.1,38,0,35.9,0,33.4V4.6C0,2.1,2.1,0,4.6,0h28.8
+							C35.9,0,38,2.1,38,4.6V33.4z"/>
+					</defs>
+					<clipPath id="SVGID_2_">
+						<use xlink:href="#SVGID_1_"  overflow="visible"/>
+					</clipPath>
+					<g id="XMLID_4121_" clip-path="url(#SVGID_2_)">
+						<path id="XMLID_4124_" fill="#FFFF00" d="M14-7.4v53.7c1,0.1,0,0.2,1,0.3V-7.7C14-7.6,15-7.5,14-7.4z"/>
+						<path id="XMLID_4123_" fill="#FFFF00" d="M22-7.5v53.7c0,0.1,1,0.2,1,0.3V-7.8C23-7.7,22-7.6,22-7.5z"/>
+						
+							<line id="XMLID_4122_" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" stroke-dasharray="5" x1="18.5" y1="-8" x2="18.5" y2="46"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
