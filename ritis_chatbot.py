@@ -51,7 +51,7 @@ if __name__ == "__main__":
     vectordb = Chroma(persist_directory=persist_directory, embedding_function=embedding)
 
     template = """
-    The following pieces of texts contain framgents from RITIS tutorials.
+    The following pieces of texts contain fragments from RITIS tutorials.
     Use these texts to addres the question and give the correct answer. 
     If you don't know the answer, just say that you don't know, don't try to make up an answer. 
     Use ten sentences maximum. 
